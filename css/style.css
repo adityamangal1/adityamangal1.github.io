@@ -6,6 +6,11 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+*{
+  padding: 0;
+  margin: 0;
+}
+
 :root {
   --yellow: #FFAC00;
   --blue: #007bff;
@@ -9798,45 +9803,27 @@ textarea.form-control {
   font-size: 22px;
   border-radius: 11px;
   border: 2px solid black;
-  margin-left: 3rem;
+  margin-left: 8rem;
   margin-top: -24px;
   padding: 2.5px;
   text-transform: uppercase;
   color: black;
-
 
 }
 .button1:hover {
   animation: color-change 1s linear infinite;
-
-
-}
-
-.button2 {
-  position: absolute;
-  background: aquamarine;
-  text-decoration: none;
-  font-family: "Baloo Tamma 2", cursive;
-  cursor: pointer;
-  font-size: 22px;
-  border-radius: 15px;
-  border: 2px solid black;
-  margin-left: 10rem;
-  margin-top: -24px;
-  padding: 2.5px;
-  text-transform: uppercase;
-  color: black;
-  
-  
 }
 
 .effect:hover{
   animation: color-change .1s linear ease-out;
 }
 
-.button2:hover {
-  animation: color-change 1s linear infinite;
+.pageclip-form__submit::after {
+  border-color: rgba(0, 255, 0, 0.8);
+  border-left-color: blue;
 }
+
+
 
 @keyframes color-change {
   0%,
