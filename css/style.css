@@ -9823,6 +9823,18 @@ textarea.form-control {
   border-left-color: blue;
 }
 
+.resp2 {
+  padding: 8px 10.4rem;
+  }
+
+.resp3 {
+  margin-top: -88px;
+  margin-left: -1rem;
+}
+.resp4 {
+  margin-left: 32rem;
+}
+
 
 
 @keyframes color-change {

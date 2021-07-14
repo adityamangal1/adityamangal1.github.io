@@ -74,4 +74,14 @@
   img {
     position: absolute;
   }
+  .resp2 {
+    padding: 35px 71px;
+  }
+  .resp3 {
+    padding: 21px 2px;
+    margin-top: -80px;
+  }
+  .resp4 {
+    margin-left: 14rem;
+  }
 }
