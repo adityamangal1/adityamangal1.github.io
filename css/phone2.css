@@ -34,7 +34,7 @@
     margin-top: -2rem;
   }
 
-  #resp{
+  #resp {
     margin-top: 0rem;
     margin-left: 8rem;
   }
@@ -50,7 +50,7 @@
     margin-top: -4rem;
   }
 
-  #resp{
+  #resp {
     margin-top: -3rem;
     margin-left: 15rem;
   }
@@ -62,12 +62,16 @@
     margin-top: 0vh;
   }
   .button1 {
-    margin-left: 6rem;
-    margin-top: -3rem;
+    margin-left: 4rem;
+    margin-top: -1rem;
   }
 
-  #resp{
-    margin-top: 2rem;
-    margin-left: 7rem;
+  #resp {
+    margin-top: 3rem;
+    margin-left: 5rem;
+  }
+
+  img {
+    position: absolute;
   }
 }
