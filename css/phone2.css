@@ -4,18 +4,21 @@
     margin-top: -25px;
   }
 }
+
 @media screen and (max-width: 1504px) {
   .button1 {
     margin-left: 8rem;
     margin-top: -25px;
   }
 }
+
 @media screen and (max-width: 1447px) {
   .button1 {
     margin-left: 7rem;
     margin-top: 8px;
   }
 }
+
 @media screen and (max-width: 1191px) {
   .button1 {
     margin-left: 3rem;
@@ -33,12 +36,12 @@
     margin-left: 7rem;
     margin-top: -2rem;
   }
-
   #resp {
     margin-top: 0rem;
     margin-left: 8rem;
   }
 }
+
 @media screen and (max-width: 712px) {
   .services-1 {
     margin-bottom: 137px;
@@ -49,12 +52,12 @@
     margin-left: 14rem;
     margin-top: -4rem;
   }
-
   #resp {
     margin-top: -3rem;
     margin-left: 15rem;
   }
 }
+
 @media screen and (max-width: 1008px) {
   .services-1 {
     margin-bottom: 137px;
@@ -65,12 +68,10 @@
     margin-left: 4rem;
     margin-top: -1rem;
   }
-
   #resp {
     margin-top: 3rem;
     margin-left: 5rem;
   }
-
   img {
     position: absolute;
   }
@@ -83,5 +84,10 @@
   }
   .resp4 {
     margin-left: 14rem;
+  }
+  .ftco-navbar-light .container {
+    position: absolute;
+    left: 0rem;
+    top: 0rem;
   }
 }
