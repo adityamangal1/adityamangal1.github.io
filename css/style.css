@@ -9847,3 +9847,30 @@ textarea.form-control {
     filter: hue-rotate(360deg);
   }
 }
+
+/* CSS for Loader  */
+
+.loader{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: white;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dissapear{
+  animation: hide 1s forwards;
+}
+
+
+
+@keyframes hide {
+  100%{
+    opacity: 0;
+    visibility: hidden;
+  }
+}
