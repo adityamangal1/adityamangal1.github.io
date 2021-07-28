@@ -9860,6 +9860,7 @@ textarea.form-control {
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 9999;
 }
 
 .dissapear{
