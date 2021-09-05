@@ -433,5 +433,5 @@ window.addEventListener("load", hideit);
 function hideit() {
   setTimeout(() => {
     loader.classList.add("dissapear");
-  }, 500);
+  }, 250);
 }
