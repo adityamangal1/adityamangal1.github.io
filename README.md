@@ -1,4 +1,4 @@
-This is a template which I used for building my portfolio site. Though I made few more changes or enhancements from myself with my front-end knowledge and that's why this is not the original template.
+This is a template which used for building this portfolio site. Though, made few more changes or enhancements from self with my front-end knowledge and that's why this is not the original template.
 <br>
 <br>
 <br>
